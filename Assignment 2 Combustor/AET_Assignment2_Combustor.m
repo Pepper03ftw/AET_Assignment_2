@@ -2,7 +2,7 @@
 % You must paste in P3, T3, T4, mdot3 values for the thrust points from the provided plots.
 % All calculations follow the assignment statement.
 
-clear; clc;
+clear; clc; close;
 
 %% ---------------------------
 % 0) USER INPUTS (FROM PLOTS)
